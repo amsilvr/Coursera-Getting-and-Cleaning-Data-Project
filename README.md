@@ -2,7 +2,7 @@
 This is the project for the Coursera course Getting and cleaning data
 
 
-The pertinent files included are the run_analysis.R script, and the tidy_Data.txt text file.
+The pertinent files included are the run_analysis.R script and the tidy_Data.txt text file.
 The run_analysis.R script basically does all of the work.
 
 To run this project, follow the steps below:
