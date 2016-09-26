@@ -1,5 +1,5 @@
 # Coursera-Getting-and-Cleaning-Data-Project
-This the project for the Coursera course Getting and cleaning data
+This is the project for the Coursera course Getting and cleaning data
 
 
 The pertinent files included are the run_analysis.R script, and the tidy_Data.txt text file.
