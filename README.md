@@ -23,6 +23,7 @@ The R script, `run_analysis.R`, does the following:
 •	Creates an independent tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 
+
 To run the project, follow the steps below:
 
 •	Open the ‘run_analysis.R’ script and change the parameter in the first ‘setwd()’ command to set the working directory initially.
